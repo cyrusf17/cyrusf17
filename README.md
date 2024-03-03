@@ -1,8 +1,8 @@
 <h1 align="center">Bonjour!!!</h1>
 
-- 👋 Hello, I'm Cyrus Ferreira pursuing bachelor's in IT engineering.
-- 🖥️ Interested in Data Analytics.
-- 🖥️ Currently learning Machine Learning.
+- 👋 Hello, I'm Cyrus Ferreira
+- I have completed Bachelor's in IT engineering.
+- 🖥️ Exploring Cyber Security.
 
 ## Languages:
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
